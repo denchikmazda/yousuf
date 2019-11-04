@@ -1,0 +1,9 @@
+Start word = abacaba
+
+abacaba -> baacaba
+baacaba -> baacbaa
+baacbaa -> bacabaa
+bacabaa -> bacbaaa
+bacbaaa -> bcabaaa
+bcabaaa -> bcbaaaa
+bcbaaaa -> bcbaaaa
