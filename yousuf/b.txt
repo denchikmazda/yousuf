@@ -6,4 +6,5 @@ baacbaa -> bacabaa
 bacabaa -> bacbaaa
 bacbaaa -> bcabaaa
 bcabaaa -> bcbaaaa
-bcbaaaa -> bcbaaaa
+
+Final word = bcbaaaa

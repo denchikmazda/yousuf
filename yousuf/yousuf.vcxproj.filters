@@ -34,5 +34,8 @@
     <Text Include="op.txt">
       <Filter>Файлы ресурсов</Filter>
     </Text>
+    <Text Include="b.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
   </ItemGroup>
 </Project>
