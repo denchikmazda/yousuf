@@ -165,7 +165,7 @@
   <ItemGroup>
     <Text Include="a.txt" />
     <Text Include="b.txt" />
-    <Text Include="op.txt" />
+    <Text Include="result.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

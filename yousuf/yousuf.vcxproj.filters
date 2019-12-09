@@ -31,10 +31,10 @@
     <Text Include="a.txt">
       <Filter>Файлы ресурсов</Filter>
     </Text>
-    <Text Include="op.txt">
+    <Text Include="b.txt">
       <Filter>Файлы ресурсов</Filter>
     </Text>
-    <Text Include="b.txt">
+    <Text Include="result.txt">
       <Filter>Файлы ресурсов</Filter>
     </Text>
   </ItemGroup>
