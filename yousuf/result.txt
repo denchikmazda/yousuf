@@ -1,10 +1,10 @@
 Begining word = abacaba
 
-abacaba -> baacaba
-baacaba -> baacbaa
-baacbaa -> bacabaa
-bacabaa -> bacbaaa
-bacbaaa -> bcabaaa
-bcabaaa -> bcbaaaa
+1 abacaba -> baacaba
+2 baacaba -> baacbaa
+3 baacbaa -> bacabaa
+4 bacabaa -> bacbaaa
+5 bacbaaa -> bcabaaa
+6 bcabaaa -> bcbaaaa
 
 Final word = bcbaaaa
